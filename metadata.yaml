@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4001
     wikipedia: http://en.wikipedia.org/wiki/Irving_Bacheller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14150#The-Light-in-the-Clearing--A-Tale-of-the-North-Country-in-the-Time-of-Silas-Wright
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-11-25'
 gutenberg_type: Text
